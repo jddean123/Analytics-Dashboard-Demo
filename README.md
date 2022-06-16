@@ -2,6 +2,10 @@
 
 An analytics dashboard demo that utilizies a free [Bootstrap template](https://startbootstrap.com/theme/sb-admin-2), Charts.js, DataTables, jQuery, PHP and MySQL.
 
+## Live Demo
+
+ - For a live demo, check it out here (https://rw.jddean.com)
+
 ## Getting started
 
 - [ ] Clone the repo.
